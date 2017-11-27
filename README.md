@@ -15,4 +15,4 @@ Better Documentation
 # Contact
 - E-mail: virre.annergard@gmail.com
 - Bgg user: virre
-- Twitter: http://www.twitter.com/virre_
+- Twitter: virre_
